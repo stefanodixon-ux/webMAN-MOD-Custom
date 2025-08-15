@@ -1,6 +1,6 @@
 #ifdef SLAUNCH_FILE
 
-#define MAX_SLAUNCH_ITEMS	2000
+#define MAX_SLAUNCH_ITEMS	5000
 
 static bool custom_icon = false; // override default cover mode using index.ps3?cover=<cover type> (icon0, mm, disc, online)
 
