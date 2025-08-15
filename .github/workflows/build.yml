@@ -42,4 +42,3 @@ jobs:
           path: |
             PKGFILES/USRDIR/webftp_server.sprx
             pkg/*.pkg
-
