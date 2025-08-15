@@ -1,0 +1,14 @@
+Info <select id="xi" name="xi">
+<option value="0x03">None
+<option value="0x13">Tags
+<option value="0x02">ID
+<option value="0x12">ID + Tags
+<option value="0x22">ID + Version
+<option value="0x32">ID + Version + Tags
+<option value="0x00">Path
+<option value="0x10">Path + Tags
+<option value="0x01">Path + ID
+<option value="0x11">Path + ID + Tags
+<option value="0x21">Path + ID + Version
+<option value="0x31">Path + ID + Version + Tags
+</select><script>document.getElementById("xi").value="0x"+("0"+(1*"    ").toString(16)).slice(-2);</script>
